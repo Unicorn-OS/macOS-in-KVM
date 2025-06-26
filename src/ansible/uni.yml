@@ -1,0 +1,6 @@
+- hosts: localhost #, node
+  vars:
+    devel: true
+  roles:
+    - dev/kholia-OSX-KVM
+
