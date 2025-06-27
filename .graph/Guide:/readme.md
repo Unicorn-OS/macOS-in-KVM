@@ -1,0 +1,3 @@
+- [Install macOS in VirtualBox on Windows PC [Intel & AMD]](https://youtu.be/vQJrM7HqezQ)
+- [How to install mac os on VMware | macOS on Windows PC/Laptop](https://youtu.be/IHaNAR4ejlA)
+- [Install macOS in VMware on a Windows PC](https://youtu.be/KwU-6Fcjeqg)
